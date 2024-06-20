@@ -1,0 +1,112 @@
+/* General body styling */
+body {
+    font-family: 'Oswald', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Title section styling */
+.title h1 {
+    text-align: center;
+    color: #333;
+}
+
+/* Questions section styling */
+.questions {
+    background-color: #fff;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.questions h4 {
+    color: #666;
+}
+
+.questions img {
+    width: 100%; /* Make images responsive */
+    height: auto;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+/* Result section styling */
+.result {
+    background-color: #e2e2e2;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+    font-size: 1.2em;
+    margin-left: 530px
+}
+.goku{
+    background-color: #e2e2e2;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+    font-size: 1.2em;   
+    display: none;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#gokuImage{
+    width: 200px;
+}
+.griffith{
+    background-color: #e2e2e2;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+    font-size: 1.2em;
+    display: none;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#griffithImage {
+    width: 200px;
+}
+
+.gilgamesh{
+    background-color: #e2e2e2;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+    font-size: 1.2em;
+    display: none;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#gilgameshImage{
+    width: 200px;
+}
+.levi{
+    background-color: #e2e2e2;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+    font-size: 1.2em;
+    display: none;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#leviImage{
+    width: 200px;
+}
+h4{
+    text-align: center;
+}
+button{
+    margin-left: 360px}
